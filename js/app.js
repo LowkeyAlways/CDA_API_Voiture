@@ -24,6 +24,8 @@ document.addEventListener("DOMContentLoaded", e => {
                                     </figcaption>
                                 </figure>`;
             list.appendChild(listItem);
+
+            
         }
 
         // Add the list to the HTML page
